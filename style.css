@@ -187,7 +187,7 @@ i{
     
 }
 .hero-section{
-    background-image: url(heroimage.jpg);
+    background-image: url(heroimage.webp);
     height: 320px;
     width: 100%;
     background-size: cover;
@@ -248,33 +248,33 @@ i{
 .dabalogo{
     height: 200px;
     width:80%;
-    background-image: url("bo1.jpg");
+    background-image: url("bo1.webp");
     background-size: cover;
 }
 .dabalogo2{
     height: 200px;
     width:80%;
-    background-image: url("bo2.jpg");
+    background-image: url("bo2.webp");
     background-size: cover;
 }
 .dabalogo3{
     height: 180px;
     width:50%;
     margin-left: 20px;
-    background-image: url("t4.jpg");
+    background-image: url("t4.webp");
     background-size: cover;
 }
 .dabalogo4{
     height: 180px;
     width:90%;
-    background-image: url("t2.jpg");
+    background-image: url("t2.webp");
     background-size: cover;
 }
 .dabalogo5{
     height: 185px;
     width:60%;
     margin-left: 25px;
-    background-image: url("t1.jpg");
+    background-image: url("t1.webp");
     background-size: cover;
 }
 .dabalogo6{
@@ -282,7 +282,7 @@ i{
     width:85%;
     margin: 10px;
     margin-right: 10px;
-    background-image: url("bo6.jpg");
+    background-image: url("bo6.webp");
     background-size: cover;
 }
 .dabalogo7{
@@ -290,14 +290,14 @@ i{
     width:80%;
     margin-top: 10px;
     margin-left: 5px;
-    background-image: url("bo4.jpg");
+    background-image: url("bo4.webp");
     background-size: cover;
 }
 .dabalogo8{
     height: 150px;
     width:80%;
     margin:10px;
-    background-image: url("bo7.jpg");
+    background-image: url("bo7.webp");
     background-size: cover;
 }
 .footer-panel{
