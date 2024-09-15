@@ -1,0 +1,360 @@
+*{
+    padding: 0;
+    margin: 0;
+    border:border-box;
+    font-family: Arial;
+
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    display:flex;
+    color:#ffffff;
+    justify-content: space-evenly;
+}
+#navlogo{
+    height:50px;
+    width: 113px;
+    padding:5px;
+
+}
+#logo{
+    height: 50px;
+    width: 100%;
+    background-image: url("pngimg.com\ -\ amazon_PNG28.png");
+    background-size: cover;
+}
+.border{
+    border:2px solid transparent;
+}
+.border:hover{
+    border:2px solid white;
+}
+.first{
+    
+    font-size:0.8rem;
+    margin-left: 13px;
+}
+.second{
+
+    
+    margin-left: 2px;
+    
+}
+.addresslogo{
+    display:flex;
+
+}
+.address{
+    align-content: center;
+    padding: 10px;
+}
+.navsearch{
+    align-content: center;
+    border-radius: 4px;
+    padding:10px 4px 10px 3px;
+    
+    
+
+    display:flex;
+}
+.search{
+    width:600px;
+    border: none;
+    
+    
+}
+.select{
+    width:50px;
+    border: none;
+    color: #0f1111;
+    border-radius: 4px;
+    
+    
+
+}
+.searchlogo{
+    background-color: orange;
+    width: 50px;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    border-radius: 4px;
+    
+
+}
+i{
+    align-content: center;
+    font-size: larger;
+    
+}
+
+
+
+.country{
+    display:flex;
+    height:60px;
+    width:90px;
+
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    
+    
+
+
+
+
+}
+.country1{
+    height: 30px;
+    color: white;
+    background-color: #0f1111;
+    font-size: 0.8rem;
+    border: none;
+}
+.logoflag{
+    height: 30px;
+    width: 43px;
+    background-image: url("Flag_of_India.png");
+    background-size: cover;
+    
+
+    
+
+}
+.login{
+    padding-top: 11px;
+}
+.order{
+    padding:13px;
+}
+.cart{
+    height: 100%;
+    width: 80px;
+    Display:flex;
+}
+.cartlogo{
+    align-content: center;
+    font-size: larger;
+}
+.cart1{
+    align-content: center;
+    font-family:'Gill Sans MT';
+    font-size: larger;
+}
+.navsecond{
+    background-color: #232F3E;
+    display:flex;
+    height: 39px;
+    color: #ffffff;
+
+
+
+}
+.box1{
+    width:450px;
+    height: 39px;
+    justify-content:space-between;
+    align-items: center;
+
+
+
+    display:inline-flex;
+
+
+}
+.logosecond{
+    display: flex;
+    margin-right: 30px;
+    align-items:center;
+    justify-content: space-between;
+    margin-left: 15px;
+
+
+}
+.all{
+    margin-left: 10px;
+
+}
+.box2{
+    height:39px;
+    width: 800px;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: end;
+    
+}
+.hero-section{
+    background-image: url(heroimage.jpg);
+    height: 320px;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+
+    justify-content: center;
+    align-items: flex-end;
+    
+}
+    
+    
+
+
+    
+
+
+.second2{
+    background-color: #ffffff;
+    height: 35px;
+    width: 95%;
+    color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8rem;
+    margin-bottom: 25px;
+}
+.hello{
+    color:blue;
+    text-decoration: none;
+}
+.shopping-cart{
+    height:600px;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-image: url(download\ \(1\).jpeg);
+    background-size: cover;
+
+
+    
+    
+}
+.dabamax{
+    margin-left: 20px;
+    width:100%;
+}
+.daba{
+    
+    height:250px;
+    width:300px;
+    background-color: #ffffff;
+    
+    
+    
+
+}
+.dabalogo{
+    height: 200px;
+    width:80%;
+    background-image: url("bo1.jpg");
+    background-size: cover;
+}
+.dabalogo2{
+    height: 200px;
+    width:80%;
+    background-image: url("bo2.jpg");
+    background-size: cover;
+}
+.dabalogo3{
+    height: 180px;
+    width:50%;
+    margin-left: 20px;
+    background-image: url("t4.jpg");
+    background-size: cover;
+}
+.dabalogo4{
+    height: 180px;
+    width:90%;
+    background-image: url("t2.jpg");
+    background-size: cover;
+}
+.dabalogo5{
+    height: 185px;
+    width:60%;
+    margin-left: 25px;
+    background-image: url("t1.jpg");
+    background-size: cover;
+}
+.dabalogo6{
+    height: 150px;
+    width:85%;
+    margin: 10px;
+    margin-right: 10px;
+    background-image: url("bo6.jpg");
+    background-size: cover;
+}
+.dabalogo7{
+    height:190px;
+    width:80%;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-image: url("bo4.jpg");
+    background-size: cover;
+}
+.dabalogo8{
+    height: 150px;
+    width:80%;
+    margin:10px;
+    background-image: url("bo7.jpg");
+    background-size: cover;
+}
+.footer-panel{
+    background-color: #37475a;
+    height:40px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foot-panel2{
+    height: 300px;
+    background-color: #232F3E;
+    color:white;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+ul{
+    margin-top: 20px;
+}
+ul a{
+    display: block;
+    color:#dddddd;
+    font-size: 0.85rem;
+    margin-top: 10px;
+}
+.foot-panel3{
+    height: 100px;
+    background-color: #232F3E;
+    border-top:0.5px solid #dddddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+
+
+}
+.secondlogo{
+    height: 40px;
+    width: 134px;
+    background-image: url(Amazon-Logo-White-Transparent.png);
+    background-size: cover;
+    position: relative;
+    right: 40px;
+}
+.footpanel-4{
+    height:50px;
+    background-color: #19222e;
+    color: #dddddd;
+    display: block;
+    align-content: center;
+    text-align: center;
+    font-size: 0.8rem;
+    
+}
+h3{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
